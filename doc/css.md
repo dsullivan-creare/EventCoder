@@ -1,12 +1,13 @@
 [HTML5 Boilerplate homepage](https://html5boilerplate.com/) | [Documentation
-table of contents](TOC.md)
+table of contents](toc.md)
 
 # The CSS
 
 HTML5 Boilerplate's CSS includes:
 
-* [Normalize.css](#normalizecss)
-* [main.css](#maincss)
+  - [The CSS](#the-css)
+  - [Normalize.css](#normalizecss)
+  - [main.css](#maincss)
 
 This starting CSS does not rely on the presence of
 [conditional class names](https://www.paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/),

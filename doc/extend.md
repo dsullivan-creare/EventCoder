@@ -1,5 +1,5 @@
 [HTML5 Boilerplate homepage](https://html5boilerplate.com) | [Documentation
-table of contents](TOC.md)
+table of contents](toc.md)
 
 # Extend and customise HTML5 Boilerplate
 
@@ -422,7 +422,7 @@ attribute should contain the location of your pingback service.
 ```
 
 * High-level explanation: https://codex.wordpress.org/Introduction_to_Blogging#Pingbacks
-* Step-by-step example case: https://www.hixie.ch/specs/pingback/pingback-1.0#TOC5
+* Step-by-step example case: https://www.hixie.ch/specs/pingback/pingback-1.0#toc5
 * PHP pingback service: https://web.archive.org/web/20131211032834/http://blog.perplexedlabs.com/2009/07/15/xmlrpc-pingbacks-using-php/
 
 
