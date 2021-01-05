@@ -36,7 +36,7 @@ function addevent(event) {
   }
   
   function eventsEditable(){
-    events = document.getElementsByClassName("event");
+    var events = document.getElementsByClassName("event");
     
     
      if (events[0].getAttribute("contenteditable") == "false"){
@@ -123,7 +123,7 @@ function addevent(event) {
   //Set max event size
 
   var textfields = document.getElementsByClassName("event"); 
-  for(i=0; i<textfields.length; i++){
+  for(var i=0; i<textfields.length; i++){
     textfields[i].addEventListener("textInput", function(e) {
         if(this.innerHTML.trim().length >= 10){
             e.preventDefault();
